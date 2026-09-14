@@ -1,0 +1,291 @@
+# master version: detailed two-page resume.
+# Balanced for ATS readability, technical depth, and concise impact.
+name: master
+pages: 2
+
+personal:
+  name: Nikhilesh Vijay Chirutala
+  title: Full-Stack Software Engineer
+  file_name: Nikhilesh_Vijay_Chirutala_Software_Engineer
+  phone: "+91-9618873598"
+  email: nikhilesh.chirutala@gmail.com
+  location: Bengaluru, IN
+  links:
+    - label: Linkedin
+      url: https://linkedin.com/in/nikhilesh-chirutala
+    - label: Github
+      url: https://github.com/nikhilesh2010
+    - label: Portfolio
+      url: https://nikhileshc.vercel.app
+
+summary: >
+  Full-Stack Software Engineer with 2.8+ years of experience building and
+  maintaining production applications across AI, CRM, trading, and cloud
+  contact center platforms. Strong experience with Python, FastAPI, JavaScript,
+  React.js, Next.js, REST APIs, MongoDB, AWS, and cloud application development.
+  Experienced in backend and frontend development, third-party integrations,
+  authentication and RBAC/ACL authorization, cloud automation, and production
+  troubleshooting. Hands-on experience implementing RAG-based chatbot solutions
+  and integrating LLM capabilities for contextual information retrieval.
+  Proven ability to develop features, resolve production issues, test
+  implementations, and support reliable deployments.
+
+skills:
+  - name: Languages
+    items: [Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3]
+
+  - name: Frontend
+    items: [React.js, Next.js, Angular, Tailwind CSS, Bootstrap, Jinja2]
+
+  - name: Backend
+    items: [FastAPI, Node.js, Express.js, REST APIs, API Development,
+            Backend Automation, Authentication, RBAC, ACL]
+
+  - name: AI & LLM
+    items: [RAG, LLM Integration, Vector Search, Prompt Engineering]
+
+  - name: Databases
+    items: [MongoDB, Neon DB, SQL]
+
+  - name: Cloud & DevOps
+    items: [AWS, Amazon S3, Vercel, GitHub Actions, CI/CD, Linux]
+
+  - name: APIs & Integrations
+    items: [Twilio, GitHub API, REST APIs, Postman]
+
+  - name: Testing & Tools
+    items: [Postman, Jest, Unit Testing, Git, GitHub]
+
+experience:
+
+  - title: Software Engineer
+    company: CA One Tech Cloud Inc.
+    company_url: null
+    start: Apr 2026
+    end: Present
+    location: Bengaluru, India
+
+    bullets:
+      - text: >
+          Develop backend services and automation for a cloud contact center
+          platform, supporting application workflows, data processing, and
+          cloud-based operations.
+
+      - text: >
+          Design and maintain Python and FastAPI services and APIs, translating
+          business requirements into backend functionality and integrations.
+
+      - text: >
+          Develop AWS-based solutions for application data and storage workflows,
+          with a focus on reliability, validation, and operational consistency.
+
+      - text: >
+          Investigate production issues, perform root-cause analysis, implement
+          bug fixes and feature enhancements, and validate changes before release.
+
+    key_projects:
+      - name: CONVOSO
+        subtitle: Cloud Contact Center Platform
+        tech: Python, FastAPI, AWS, Amazon S3, REST APIs
+
+        bullets:
+          - text: >
+              Developed backend services supporting lead routing, call recording
+              management, data processing, and cloud storage workflows.
+
+          - text: >
+              Designed recording-recovery workflows processing 10,000+ recordings
+              per month and restoring missing or inconsistent recording data.
+
+          - text: >
+              Implemented S3 storage validation and metadata synchronization to
+              maintain consistency between application records and cloud objects.
+
+          - text: >
+              Built automation to identify, recover, organize, and synchronize
+              recordings across storage systems, reducing manual intervention.
+
+          - text: >
+              Added validation and error handling for failed recording operations
+              and unexpected storage states to improve recovery reliability.
+
+          - text: >
+              Traced recording pipeline failures across backend services, cloud
+              storage, and metadata workflows to identify and implement fixes.
+
+          - text: >
+              Monitored recording and storage workflows in production, validating
+              processing outcomes and addressing failures to maintain reliable operations.
+
+  - title: Software Engineer
+    company: Mantra Technologies
+    company_url: null
+    start: Feb 2024
+    end: Mar 2026
+    location: Hyderabad, India
+
+    bullets:
+      - text: >
+          Worked across four production applications, delivering backend,
+          frontend, API integration, and application features across the stack.
+
+      - text: >
+          Built backend modules, REST APIs, and business logic using Python,
+          FastAPI, and MongoDB for application-specific workflows.
+
+      - text: >
+          Developed frontend interfaces using React.js, Next.js, Angular,
+          JavaScript, and TypeScript, integrating application workflows with APIs.
+
+      - text: >
+          Implemented authentication, RBAC, and ACL-based authorization to
+          enforce access controls across application resources.
+
+      - text: >
+          Integrated third-party services including Twilio and GitHub API and
+          supported application deployments across AWS and Vercel.
+
+      - text: >
+          Maintained GitHub Actions CI/CD workflows and handled testing,
+          debugging, bug fixes, and production support.
+
+    key_projects:
+      - name: AI Bull
+        subtitle: AI-Powered Trading Platform
+        tech: React.js, Next.js, FastAPI, Python, MongoDB, RAG, LLM
+
+        bullets:
+          - text: >
+              Developed an AI-powered trading and investment analysis platform
+              for stock and mutual fund analysis, screening, and back-testing.
+
+          - text: >
+              Implemented a Retrieval-Augmented Generation (RAG) based chatbot
+              that retrieves relevant financial and application-specific
+              information to generate contextual responses.
+
+          - text: >
+              Integrated the RAG chatbot into application workflows, enabling
+              conversational access to relevant financial information.
+
+          - text: >
+              Built FastAPI/Python backend APIs and business logic for financial
+              data processing and application workflows.
+
+          - text: >
+              Developed back-testing engines and configurable screening and
+              filtering capabilities for stocks and mutual funds.
+
+      - name: CRM.io
+        subtitle: AI-Driven CRM System
+        tech: FastAPI, Python, Jinja2, MongoDB, ACL, Twilio, REST APIs
+
+        bullets:
+          - text: >
+              Developed CRM modules for Contacts, Tasks, communication workflows,
+              and telephony operations using FastAPI and Python.
+
+          - text: >
+              Implemented RBAC and ACL authorization to control access to CRM
+              resources based on user permissions.
+
+          - text: >
+              Integrated Twilio for telephony and communication functionality
+              and developed server-rendered interfaces using Jinja2.
+
+          - text: >
+              Tested APIs and workflows with Postman and resolved bugs across
+              CRM functionality and production workflows.
+
+      - name: GharPe
+        subtitle: Real Estate Management Platform
+        tech: React.js, FastAPI, Python, MongoDB, REST APIs
+
+        bullets:
+          - text: >
+              Developed the React.js-based admin system for managing real estate
+              projects and controlling their visibility and availability on the website.
+
+          - text: >
+              Built project management workflows allowing administrators to
+              create, update, configure, and manage projects displayed across the platform.
+
+          - text: >
+              Developed lead management functionality to track and manage
+              customer inquiries generated through the platform.
+
+          - text: >
+              Built builder management features for maintaining builder
+              information and associating builders with their respective projects.
+
+          - text: >
+              Developed and integrated FastAPI/Python REST APIs supporting
+              administrative workflows, project configuration, and data operations.
+
+personal_projects:
+
+  - name: JS Studio
+    url: https://jsstudio.space/
+    description: Online JavaScript Playground
+    tech: Next.js, GitHub API, Vercel
+    details:
+      - text: >
+          Developed an online JavaScript playground for writing and executing
+          JavaScript through a web interface.
+
+      - text: >
+          Integrated GitHub APIs and deployed the application with Next.js and Vercel.
+
+  - name: AnyScrum
+    url: http://anyscrum.vercel.app
+    description: Project Management Platform
+    tech: Next.js, Neon DB, Clerk, Vercel
+    details:
+      - text: >
+          Developed a project management platform for projects, tasks, and team workflows.
+
+      - text: >
+          Implemented authentication and user management with Clerk and
+          persistent application data with Neon DB.
+
+  - name: Guider
+    url: https://guiderhub.vercel.app/
+    description: Interactive Learning Portal
+    tech: Angular 19, TypeScript, SSR, Vercel
+    details:
+      - text: >
+          Built an interactive learning platform using Angular 19, TypeScript,
+          and server-side rendering with reusable frontend components.
+
+      - text: >
+          Deployed the application on Vercel with a production-ready frontend architecture.
+
+  - name: Contact Management App
+    url: https://nikhils-contactapp.netlify.app/
+    description: Contacts Storage Application
+    tech: React.js, JavaScript, Netlify
+    details:
+      - text: >
+          Developed a React-based application for creating, viewing, updating,
+          and managing contact information.
+
+      - text: >
+          Built reusable UI components and deployed the application on Netlify.
+
+education:
+  degree: B.Tech — Electrical & Electronics Engineering
+  school: Srinivasa Ramanujan Institute of Technology, Anantapur
+  start: 2019
+  end: 2023
+  gpa: 7.73 / 10
+
+  certifications:
+    - Agile Methodology Virtual Experience Program — Cognizant (Oct 2022)
+    - Python Programming Online Training — APSSDC (May–Jun 2021)
+
+sections:
+  - summary
+  - skills
+  - experience
+  - personal_projects
+  - education
