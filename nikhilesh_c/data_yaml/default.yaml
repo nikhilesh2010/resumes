@@ -1,0 +1,113 @@
+# Default version: the full resume, everything included.
+# Each file in data/ is a complete, self-contained resume - there's no tag
+# filtering or shared master file. Copy this file to start a new version.
+name: default
+
+personal:
+  name: Nikhilesh Vijay Chirutala
+  title: Full-Stack Software Engineer
+  file_name: Nikhilesh_Vijay_Chirutala_Software_Engineer
+  phone: "+91-9618873598"
+  email: nikhilesh.chirutala@gmail.com
+  location: Bengaluru, IN
+  links:
+    - label: linkedin.com/in/nikhilesh-chirutala
+      url: https://linkedin.com/in/nikhilesh-chirutala
+    - label: github.com/nikhilesh2010
+      url: https://github.com/nikhilesh2010
+    - label: nikhileshc.vercel.app
+      url: https://nikhileshc.vercel.app
+
+summary: >
+  Full-Stack Software Engineer with 2.8 years of experience building scalable web
+  applications across AI, CRM, and cloud platforms. Experienced in designing backend
+  APIs, developing modern frontend interfaces, and delivering production-ready
+  features using Python, JavaScript, and cloud technologies. Passionate about
+  building reliable products, solving complex engineering challenges, and
+  contributing across the full software development lifecycle.
+
+skills:
+  - name: Languages
+    items: [JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL]
+  - name: Frontend
+    items: [React.js, Next.js, Angular, Tailwind CSS, Bootstrap]
+  - name: Backend
+    items: [Node.js, Express.js, FastAPI, REST APIs, Jinja2]
+  - name: Databases
+    items: [MongoDB, Neon DB]
+  - name: Testing
+    items: [Postman, Jest, Unit Testing]
+  - name: Cloud & Tools
+    items: [AWS, Git, GitHub Actions, Linux, Vercel, Postman, Twilio]
+
+experience:
+  - title: Software Engineer
+    company: CA One Tech Cloud Inc.
+    company_url: null
+    start: Apr 2026
+    end: Present
+    location: Bengaluru, India
+    bullets:
+      - text: Building backend automation for the Convoso cloud contact center platform, processing 10,000+ call recordings monthly across recovery, cloud storage, and metadata sync workflows.
+      - text: Designed and built a call-recording recovery and S3 storage management system from the ground up — no prior automation existed — reducing manual intervention and improving production reliability.
+      - text: Troubleshot and resolved production issues across the recording pipeline; optimized backend storage workflows and validated deployments to support day-to-day testing and production operations.
+    key_projects:
+      - name: CONVOSO
+        subtitle: Cloud Contact Center Platform
+        tech: Python, FastAPI, AWS, Amazon S3
+        bullets:
+          - text: Developed backend services for lead routing, recording management, data processing, and cloud-based contact center operations.
+          - text: Built recording-recovery and metadata-sync workflows handling 10,000+ recordings/month, improving data consistency and system performance.
+
+  - title: Software Engineer
+    company: Mantra Technologies
+    company_url: null
+    start: Feb 2024
+    end: Mar 2026
+    location: Hyderabad, India
+    bullets:
+      - text: Delivered features across four production applications, contributing throughout design, development, testing, and deployment in Agile teams.
+      - text: Developed scalable backend modules with secure REST APIs, RBAC/ACL authorization, and performance optimizations, validating APIs using Postman.
+      - text: Managed application deployments on AWS and Vercel, maintained GitHub Actions CI/CD pipelines, and supported Linux-based development workflows.
+    key_projects:
+      - name: AI Bull
+        subtitle: AI-Powered Trading Platform
+        tech: React.js, Next.js, FastAPI, Python, MongoDB
+        bullets:
+          - text: Developed back-testing engines and financial screening tools with dynamic filtering for stocks and mutual funds, improving investment analysis capabilities.
+      - name: CRM.io
+        subtitle: AI-Driven CRM System
+        tech: FastAPI, Jinja2, Python, ACL, Twilio, MongoDB
+        bullets:
+          - text: Built core CRM modules including Contacts, Tasks, and Telephony with Twilio integration and role-based access control.
+          - text: Developed secure backend APIs and business logic supporting CRM workflows and user permissions.
+
+personal_projects:
+  - name: JS Studio
+    url: https://jsstudio.space/
+    description: Online JavaScript Playground
+    tech: Next.js, GitHub API, Vercel
+  - name: AnyScrum
+    url: http://anyscrum.vercel.app
+    description: Project Management Platform
+    tech: Next.js, Neon DB, Clerk, Vercel
+  - name: Guider
+    url: https://guiderhub.vercel.app/
+    description: Interactive Learning Portal
+    tech: Angular 19, SSR, TypeScript, Vercel
+  - name: Contact Management App
+    url: https://nikhils-contactapp.netlify.app/
+    description: Contacts Storage
+    tech: React.js, Netlify
+
+education:
+  degree: B.Tech — Electrical & Electronics Engineering
+  school: Srinivasa Ramanujan Institute of Technology, Anantapur
+  start: 2019
+  end: 2023
+  gpa: 7.73 / 10
+  certifications:
+    - Agile Methodology Virtual Experience Program — Cognizant (Oct 2022)
+    - Python Programming Online Training — APSSDC (May–Jun 2021)
+
+sections: [summary, skills, experience, personal_projects, education]
