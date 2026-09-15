@@ -59,20 +59,20 @@ skills:
     items: [RAG, LLM Integration, Vector Search, Prompt Engineering]
 
   - name: Observability & Production
-    items: [Datadog, StatsD, Sentry, Monitoring, Debugging,
+    items: [Datadog, Sentry, Monitoring, Debugging,
             Production Troubleshooting, Error Handling]
 
   - name: Testing & Development Tools
     items: [Postman, Unit Testing, Jest, Git, GitHub, Debugging]
 
   - name: Frontend
-    items: [React.js, Next.js, Angular, JavaScript, TypeScript,
+    items: [React.js, Next.js, JavaScript, TypeScript,
             Jinja2, Tailwind CSS, Bootstrap]
 
 
 experience:
 
-  - title: Python Software Engineer
+  - title: Software Engineer
     company: CA One Tech Cloud Inc.
     company_url: null
     start: Apr 2026
@@ -119,7 +119,7 @@ experience:
           activities.
 
       - text: >
-          Implemented production observability using Datadog, StatsD, and
+          Implemented production observability using Datadog, and
           Sentry to monitor service health, track application errors,
           diagnose processing failures, and support incident resolution.
 
@@ -331,22 +331,6 @@ personal_projects:
       - text: >
           Integrated GitHub APIs and deployed the application using Next.js
           and Vercel.
-
-
-  - name: Guider
-    url: https://guiderhub.vercel.app/
-    description: Interactive Learning Portal
-    tech: Angular 19, TypeScript, SSR, Vercel
-
-    details:
-
-      - text: >
-          Built an interactive learning platform using Angular 19,
-          TypeScript, and server-side rendering with reusable components.
-
-      - text: >
-          Deployed the application on Vercel with a production-ready
-          application architecture.
 
 
 education:
