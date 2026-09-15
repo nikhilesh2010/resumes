@@ -35,7 +35,7 @@ skills:
     items: [Python, SQL, JavaScript (ES6+), TypeScript]
 
   - name: Python Development
-    items: [FastAPI, Django, Django REST Framework, Flask,
+    items: [FastAPI, Django, Flask,
             REST APIs, Python Automation, Data Processing, ETL,
             Validation, Business Logic]
 
