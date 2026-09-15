@@ -1,0 +1,294 @@
+name: qgis_python_developer
+pages: 2
+
+personal:
+  name: Nikhilesh Vijay Chirutala
+  title: Python Software Engineer
+  file_name: Nikhilesh_Vijay_Chirutala_Python_Software_Engineer
+  phone: "+91-9618873598"
+  email: nikhilesh.chirutala@gmail.com
+  location: Hyderabad, India
+  links:
+    - label: Linkedin
+      url: https://linkedin.com/in/nikhilesh-chirutala
+    - label: Github
+      url: https://github.com/nikhilesh2010
+    - label: Portfolio
+      url: https://nikhileshc.vercel.app
+
+summary: >
+  Python Software Engineer with 2.8+ years of experience developing and
+  maintaining production applications involving data processing, ETL,
+  validation, migration, automation, REST APIs, databases, and production
+  troubleshooting. Strong experience with Python, FastAPI, Django, Flask,
+  PostgreSQL, MySQL, MongoDB, REST APIs, and AWS. Experienced in building
+  automated data-processing and validation workflows, migrating legacy
+  systems to Python services, integrating external systems, and supporting
+  reliable processing across distributed production environments. Strong
+  debugging and problem-solving skills with experience working from business
+  requirements through implementation, testing, deployment, and production
+  support.
+
+skills:
+
+  - name: Programming
+    items: [Python, SQL, JavaScript (ES6+), TypeScript]
+
+  - name: Python Development
+    items: [FastAPI, Django, Django REST Framework, Flask,
+            REST APIs, Python Automation, Data Processing, ETL,
+            Validation, Business Logic]
+
+  - name: Databases
+    items: [PostgreSQL, MySQL, MongoDB, SQL, Data Modeling,
+            CRUD Operations, Data Validation]
+
+  - name: Data & Integration
+    items: [Data Migration, Data Transformation, Data Processing,
+            REST API Integration, Third-Party Integrations,
+            API Validation, Error Handling]
+
+  - name: Cloud & Infrastructure
+    items: [AWS, Amazon S3, Linux, GitHub Actions, CI/CD]
+
+  - name: Development & Version Control
+    items: [Git, GitHub, Postman, Unit Testing, Debugging]
+
+  - name: Observability & Troubleshooting
+    items: [Datadog, Sentry, Monitoring, Production Troubleshooting,
+            Root-Cause Analysis, Error Handling]
+
+  - name: Web Technologies
+    items: [JavaScript, TypeScript, React.js, Next.js, HTML, CSS]
+
+experience:
+
+  - title: Software Engineer
+    company: CA One Tech Cloud Inc.
+    company_url: null
+    start: Apr 2026
+    end: Present
+    location: Bengaluru, India
+    client: Convoso
+    project: Cloud Contact Center Platform
+    tech: Python, FastAPI, AWS, Amazon S3, MySQL, Datadog
+
+    bullets:
+
+      - text: >
+          Develop and maintain production-grade Python services supporting
+          ETL, data processing, validation, storage workflows, and backend
+          operations for a high-volume cloud contact center platform.
+
+      - text: >
+          Migrated a legacy Perl-based data-processing workflow to a
+          long-running Python service deployed across 40 production clusters,
+          implementing validation, staged rollout, rollback, feature flags,
+          and monitoring.
+
+      - text: >
+          Developed automated validation and recovery workflows for processed
+          data, identifying incomplete processing, failed operations, and
+          inconsistent storage states across production environments.
+
+      - text: >
+          Built Python integrations with external microservices and APIs,
+          implementing eligibility checks, configurable processing controls,
+          retries, response validation, and result persistence.
+
+      - text: >
+          Built AWS S3 audit and recovery workflows for data storage,
+          implementing deterministic object handling and idempotent
+          re-processing operations for incomplete or failed migrations.
+
+      - text: >
+          Supported data migration and deployment activities across multiple
+          production environments, including validation, monitoring,
+          troubleshooting, and recovery of processing failures.
+
+      - text: >
+          Implemented production observability using Datadog and Sentry to
+          monitor service health, identify processing failures, and support
+          incident resolution.
+
+      - text: >
+          Investigated production issues across Python services, APIs,
+          databases, and cloud storage, performing root-cause analysis and
+          implementing fixes to improve workflow reliability.
+
+  - title: Software Engineer
+    company: Mantra Technologies
+    company_url: null
+    start: Feb 2024
+    end: Mar 2026
+    location: Hyderabad, India
+
+    bullets:
+
+      - text: >
+          Developed and maintained Python-based application functionality
+          across four production applications, contributing to APIs, data
+          processing, business workflows, integrations, and application
+          features.
+
+      - text: >
+          Built application modules from business requirements through
+          implementation, data validation, testing, debugging, deployment,
+          and production support.
+
+      - text: >
+          Developed REST APIs and backend workflows for data creation,
+          retrieval, transformation, validation, and persistence across
+          application modules.
+
+      - text: >
+          Worked with PostgreSQL, MongoDB, and SQL-based data operations,
+          implementing data models, CRUD workflows, validation, and
+          application-level data processing.
+
+      - text: >
+          Integrated third-party services and external APIs into backend
+          workflows, handling request validation, response processing, and
+          application error scenarios.
+
+      - text: >
+          Supported deployments and CI/CD workflows while troubleshooting
+          application issues across development and production environments.
+
+    key_projects:
+
+      - name: AI Bull
+        subtitle: AI-Powered Trading Platform
+        tech: FastAPI, Python, MongoDB, RAG, LLM, React.js, Next.js
+
+        bullets:
+
+          - text: >
+              Developed Python and FastAPI backend services supporting
+              financial data processing, screening, filtering, and
+              configurable analysis workflows.
+
+          - text: >
+              Implemented backend processing logic for transforming,
+              filtering, validating, and persisting application data based
+              on configurable business rules.
+
+          - text: >
+              Built back-testing engines and configurable processing
+              workflows for stock and mutual fund analysis.
+
+          - text: >
+              Developed REST APIs supporting communication between backend
+              processing services, databases, and application interfaces.
+
+          - text: >
+              Integrated MongoDB for application data persistence and
+              implemented database-backed processing workflows.
+
+      - name: CRM.io
+        subtitle: AI-Driven CRM System
+        tech: FastAPI, Python, MongoDB, REST APIs, Twilio, Jinja2
+
+        bullets:
+
+          - text: >
+              Developed backend modules using Python and FastAPI for
+              Contacts, Tasks, communication workflows, and telephony
+              operations.
+
+          - text: >
+              Designed and implemented REST APIs and business logic for
+              application resources and data-driven workflows.
+
+          - text: >
+              Integrated external APIs and third-party services, handling
+              communication workflows, request processing, and response
+              validation.
+
+          - text: >
+              Implemented MongoDB-backed data operations for CRM entities
+              and application workflows.
+
+          - text: >
+              Tested APIs and backend workflows using Postman and resolved
+              application defects through debugging and root-cause analysis.
+
+      - name: GharPe
+        subtitle: Real Estate Management Platform
+        tech: FastAPI, Python, MongoDB, REST APIs, React.js
+
+        bullets:
+
+          - text: >
+              Developed FastAPI and Python REST APIs supporting real estate
+              project management, configuration, administrative workflows,
+              and data operations.
+
+          - text: >
+              Implemented backend workflows for creating, updating,
+              configuring, and managing project data across application
+              modules.
+
+          - text: >
+              Developed data-driven workflows for lead management and
+              association of builders with their respective projects.
+
+          - text: >
+              Integrated MongoDB for application data persistence and
+              API-driven communication with administrative applications.
+
+personal_projects:
+
+  - name: Enterprise REST API Platform
+    url: null
+    description: Django and Flask Backend Application
+    tech: Python, Django, Django REST Framework, Flask, PostgreSQL, REST APIs
+
+    details:
+
+      - text: >
+          Built modular Python REST APIs using Django, Django REST Framework,
+          and Flask for authentication, business logic, data processing,
+          and application workflows.
+
+      - text: >
+          Integrated PostgreSQL with database models, relationships, CRUD
+          operations, validation, and API error handling.
+
+      - text: >
+          Implemented data validation and structured error handling for
+          reliable processing of API requests and database operations.
+
+      - text: >
+          Tested and validated REST APIs using Postman, covering request
+          validation, authentication, API behavior, and error scenarios.
+
+  - name: AnyScrum
+    url: http://anyscrum.vercel.app
+    description: Project Management Platform
+    tech: Next.js, Neon DB, Clerk, Vercel
+
+    details:
+
+      - text: >
+          Developed a project management platform supporting projects,
+          tasks, and team workflows.
+
+      - text: >
+          Implemented authentication, persistent data storage, and
+          application workflows for managing project and task data.
+
+education:
+
+  degree: B.Tech — Electrical & Electronics Engineering
+  school: Srinivasa Ramanujan Institute of Technology, Anantapur
+  start: 2019
+  end: 2023
+  gpa: 7.73 / 10
+
+sections:
+  - summary
+  - skills
+  - experience
+  - personal_projects
+  - education
