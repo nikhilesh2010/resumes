@@ -139,37 +139,21 @@ experience:
     bullets:
 
       - text: >
-          Developed backend services, REST APIs, business logic, and
-          application workflows using Python, FastAPI, and MongoDB across
-          multiple production applications.
-
+          Developed and maintained backend functionality across four production
+          applications, contributing to APIs, business workflows, integrations,
+          and application features.
+    
       - text: >
-          Designed and implemented API-driven backend modules for
-          application-specific workflows, data processing, authentication,
-          authorization, and third-party integrations.
-
+          Built and enhanced application modules based on business requirements,
+          from backend implementation through testing, debugging, and production support.
+    
       - text: >
-          Implemented authentication, RBAC, and ACL-based authorization
-          to enforce resource-level access controls across application
-          services.
-
+          Worked on secure application workflows involving authentication,
+          authorization, third-party integrations, and data management.
+    
       - text: >
-          Integrated third-party services including Twilio and GitHub API,
-          handling API communication and application-level integration
-          workflows.
-
-      - text: >
-          Worked with MongoDB for application data operations and developed
-          backend workflows involving data creation, updates, retrieval,
-          validation, and persistence.
-
-      - text: >
-          Maintained GitHub Actions CI/CD workflows and supported application
-          deployments across AWS and Vercel environments.
-
-      - text: >
-          Performed API testing, debugging, defect resolution, and production
-          support to maintain application reliability.
+          Supported deployments and CI/CD workflows while troubleshooting
+          application issues across development and production environments.
 
     key_projects:
 
