@@ -213,30 +213,6 @@ experience:
               Tested APIs and backend workflows using Postman and resolved
               application defects through debugging and root-cause analysis.
 
-      - name: GharPe
-        subtitle: Real Estate Management Platform
-        tech: FastAPI, Python, MongoDB, REST APIs, React.js
-
-        bullets:
-
-          - text: >
-              Developed FastAPI and Python REST APIs supporting real estate
-              project management, configuration, administrative workflows,
-              and data operations.
-
-          - text: >
-              Implemented backend workflows for creating, updating,
-              configuring, and managing project data across application
-              modules.
-
-          - text: >
-              Developed data-driven workflows for lead management and
-              association of builders with their respective projects.
-
-          - text: >
-              Integrated MongoDB for application data persistence and
-              API-driven communication with administrative applications.
-
 personal_projects:
 
   - name: Enterprise REST API Platform
@@ -277,6 +253,21 @@ personal_projects:
       - text: >
           Implemented authentication, persistent data storage, and
           application workflows for managing project and task data.
+
+  - name: JS Studio
+    url: https://jsstudio.space/
+    description: Online JavaScript Playground
+    tech: Next.js, GitHub API, Vercel
+
+    details:
+
+      - text: >
+          Developed an online JavaScript playground for writing and executing
+          JavaScript through a web interface.
+
+      - text: >
+          Integrated GitHub APIs and deployed the application using Next.js
+          and Vercel.
 
 education:
 
