@@ -36,7 +36,7 @@ summary: >
 skills:
 
   - name: Languages
-    items: [Python, SQL, JavaScript (ES6+), TypeScript]
+    items: [Python, SQL, JavaScript (ES6+)]
 
   - name: Backend & Frameworks
     items: [FastAPI, Django, Flask, REST APIs,
@@ -66,8 +66,7 @@ skills:
     items: [Postman, Unit Testing, Jest, Git, GitHub, Debugging]
 
   - name: Frontend
-    items: [React.js, Next.js, JavaScript, TypeScript,
-            Jinja2, Tailwind CSS]
+    items: [React.js, Next.js, Jinja2, Tailwind CSS, HTML, CSS]
 
 
 experience:
