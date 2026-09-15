@@ -39,7 +39,7 @@ skills:
     items: [Python, SQL, JavaScript (ES6+), TypeScript]
 
   - name: Backend & Frameworks
-    items: [FastAPI, Django, Django REST Framework, Flask, REST APIs,
+    items: [FastAPI, Django, Flask, REST APIs,
             API Development, Backend Automation, Business Logic]
 
   - name: Databases
@@ -223,36 +223,6 @@ experience:
           - text: >
               Tested APIs and backend workflows using Postman and resolved
               application defects across CRM and production workflows.
-
-
-      - name: GharPe
-        subtitle: Real Estate Management Platform
-        tech: FastAPI, Python, MongoDB, REST APIs, React.js
-
-        bullets:
-
-          - text: >
-              Developed FastAPI/Python REST APIs supporting real estate
-              project management, configuration, administrative workflows,
-              and data operations.
-
-          - text: >
-              Implemented backend workflows for creating, updating,
-              configuring, and managing real estate projects displayed
-              across the platform.
-
-          - text: >
-              Developed lead management functionality for tracking and
-              managing customer inquiries generated through the platform.
-
-          - text: >
-              Built backend functionality for builder management and
-              association of builders with their respective projects.
-
-          - text: >
-              Integrated MongoDB for application data persistence and
-              supported API-driven communication with the administrative
-              application.
 
 
 personal_projects:
