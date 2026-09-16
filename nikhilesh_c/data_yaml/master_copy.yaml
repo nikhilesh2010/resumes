@@ -125,28 +125,32 @@ experience:
     bullets:
 
       - text: >
-          Contributed to four production applications, handling feature
-          development and end-to-end application workflows.
+          Contributed to production applications by delivering new features,
+          enhancing existing functionality, and supporting end-to-end application workflows.
 
       - text: >
-          Designed and implemented application modules and business workflows
-          based on product requirements.
+          Designed and implemented application modules and business workflows,
+          translating functional requirements into reliable and maintainable features.
 
       - text: >
-          Developed and integrated frontend and backend workflows to support
-          application functionality and user requirements.
+          Developed end-to-end functionality across application layers, coordinating
+          user-facing workflows, backend operations, APIs, and supporting processes.
 
       - text: >
-          Implemented authentication and access-control mechanisms across
-          application resources.
+          Implemented authentication, authorization, and access-control workflows,
+          ensuring appropriate permissions across users, roles, and application resources.
 
       - text: >
-          Integrated external services and supported application deployments,
-          releases, and environment validation.
+          Integrated third-party services and external APIs, handling data exchange,
+          request validation, error handling, and integration-specific workflows.
 
       - text: >
-          Performed testing, debugging, bug fixes, and production support,
-          investigating issues and delivering reliable fixes.
+          Supported application releases and deployments by performing environment
+          validation, troubleshooting deployment issues, and resolving release-related defects.
+
+      - text: >
+          Performed functional testing, debugging, defect resolution, and production
+          support, investigating issues and implementing fixes to maintain application reliability.
 
     key_projects:
 
