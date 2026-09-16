@@ -19,13 +19,14 @@ personal:
       url: https://nikhileshc.vercel.app
 
 summary: >
-  Full-Stack Software Engineer with 3+ years shipping production systems across AI,
-  fintech, CRM, and cloud contact-center platforms. Led migration of a legacy Perl
-  call-recording workflow to a Python service running across 40 production clusters
-  with staged rollout and rollback safety, and built a RAG-based chatbot integrated
-  into a live trading platform for contextual financial retrieval. Comfortable owning
-  features end-to-end — APIs, data modeling, React/Next.js frontends, auth/RBAC — with
-  a strong focus on reliability and observability (Datadog, Sentry).
+  Full-Stack Software Engineer with 3+ years of experience designing and maintaining
+  production applications across AI, fintech, CRM, and cloud contact-center platforms.
+  I work end-to-end — designing REST APIs, modeling data in MongoDB and PostgreSQL,
+  building React.js/Next.js frontends, and implementing authentication and RBAC/ACL
+  authorization. I've built and integrated a RAG-based chatbot into a live trading platform
+  for contextual, portfolio-aware financial insights. Comfortable across Python, FastAPI,
+  Django, Flask, JavaScript/TypeScript, and AWS, with a strong focus on production reliability
+  and observability using Datadog and Sentry.
 
 skills:
 
