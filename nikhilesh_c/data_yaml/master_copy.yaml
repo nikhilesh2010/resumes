@@ -19,18 +19,17 @@ personal:
       url: https://nikhileshc.vercel.app
 
 summary: >
-  Full-Stack Software Engineer with 3+ years of experience building and
-  maintaining production applications across AI, CRM, trading, and cloud
-  contact center platforms. Strong experience with Python, FastAPI, Django,
-  Flask, JavaScript, React.js, Next.js, REST APIs, MongoDB, AWS, and cloud
-  application development. Experienced in backend and frontend development,
-  API design, business logic, third-party integrations, authentication,
-  RBAC/ACL authorization, cloud automation, and production troubleshooting.
-  Hands-on experience implementing RAG-based chatbot solutions and integrating
-  LLM capabilities for contextual information retrieval. Proven ability to
-  develop scalable backend services, build REST APIs, integrate databases,
-  troubleshoot production issues, test implementations, and support reliable
-  deployments.
+  Full-Stack Software Engineer with 3+ years of experience building and maintaining
+  production applications across AI, CRM, trading, and cloud contact center platforms.
+  I work end-to-end — designing REST APIs, modeling data in MongoDB and PostgreSQL,
+  building React.js/Next.js frontends, and implementing authentication and RBAC/ACL
+  authorization. I've built and integrated a RAG-based chatbot into a live trading
+  platform for contextual financial information retrieval, and most recently led
+  the migration of a legacy Perl-based call-recording workflow to a Python service
+  deployed across 40 production clusters, with staged rollout, feature flags, and
+  rollback safety. Comfortable across Python, FastAPI, Django, Flask, JavaScript/TypeScript,
+  and AWS, with a strong focus on production reliability, troubleshooting, and
+  observability using Datadog and Sentry.
 
 skills:
 
