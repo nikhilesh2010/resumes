@@ -124,55 +124,61 @@ experience:
     bullets:
 
       - text: >
-          Delivered new features and enhancements across production applications,
+          Delivered production features and enhancements across multiple applications,
           translating product requirements into application modules, business logic,
-          and end-to-end workflows.
-    
+          and complete end-to-end workflows.
+
       - text: >
-          Developed and integrated end-to-end application functionality across
-          frontend, backend, APIs, and data flows, ensuring features worked
-          consistently across connected application components.
-    
+          Worked across application layers to implement and integrate functionality,
+          connecting frontend workflows, backend services, APIs, and data flows to
+          deliver cohesive product features.
+
       - text: >
           Implemented authentication, authorization, and access-control workflows,
-          managing permissions across users, roles, and application resources.
-    
+          while integrating external services and handling validation and
+          integration-related issues.
+
       - text: >
-          Integrated third-party services and APIs, handling request and response
-          flows, data validation, error scenarios, and integration-related issues.
-    
-      - text: >
-          Supported releases and production operations through deployment validation,
-          testing, debugging, root-cause analysis, defect resolution, and troubleshooting
-          of application issues.
+          Supported production releases and resolved application issues through
+          testing, debugging, root-cause analysis, deployment validation, and
+          defect resolution.
 
     key_projects:
 
       - name: AI Bull
-        subtitle: AI-Powered Trading Platform
+        subtitle: AI-Powered Trading & Investment Platform
         tech: React.js, Next.js, FastAPI, Python, MongoDB, RAG, LLM
 
         bullets:
           - text: >
-              Developed an AI-powered trading and investment analysis platform
-              for stock and mutual fund analysis, screening, and back-testing.
+              Developed an AI-powered trading and investment platform with portfolio
+              aggregation, enabling users to consolidate holdings from multiple
+              Demat accounts such as Upstox, Zerodha, and Groww into a unified view.
 
           - text: >
-              Implemented a Retrieval-Augmented Generation (RAG) based chatbot
-              that retrieves relevant financial and application-specific
-              information to generate contextual responses.
+              Built portfolio workflows for tracking positions, stocks, and mutual
+              funds, along with detailed reports and investment-level information
+              across aggregated accounts.
 
           - text: >
-              Integrated the RAG chatbot into application workflows, enabling
-              conversational access to relevant financial information.
+              Developed stock and mutual fund screeners with configurable filtering
+              capabilities and detailed asset pages for analyzing individual
+              investments and their underlying information.
 
           - text: >
-              Built FastAPI/Python backend APIs and business logic for financial
-              data processing and application workflows.
+              Designed and implemented a backtesting engine for evaluating trading
+              strategies against historical market data and analyzing strategy
+              performance.
 
           - text: >
-              Developed back-testing engines and configurable screening and
-              filtering capabilities for stocks and mutual funds.
+              Implemented a Retrieval-Augmented Generation (RAG) based chatbot that
+              combines portfolio and financial information to provide contextual
+              insights and answer portfolio-related user queries.
+
+          - text: >
+              Built FastAPI and Python backend APIs and business logic supporting
+              portfolio aggregation, investment analysis, screening, backtesting,
+              and AI-powered portfolio workflows.
 
       - name: CRM.io
         subtitle: AI-Driven CRM System
