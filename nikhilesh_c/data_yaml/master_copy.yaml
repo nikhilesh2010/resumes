@@ -145,8 +145,12 @@ experience:
           workflows and external system interactions.
 
       - text: >
-          Supported application deployments, testing, debugging, bug fixes,
-          and production issues throughout the development lifecycle.
+          Supported application deployments and releases, including environment
+          validation and troubleshooting of deployment issues.
+
+      - text: >
+          Performed testing, debugging, bug fixes, and production support to
+          investigate issues and maintain application reliability.
 
     key_projects:
 
