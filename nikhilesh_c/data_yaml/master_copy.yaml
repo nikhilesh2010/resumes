@@ -176,49 +176,43 @@ experience:
 
       - name: CRM.io
         subtitle: AI-Driven CRM System
-        tech: FastAPI, Python, Jinja2, MongoDB, ACL, Twilio, REST APIs
+        tech: FastAPI, Python, Jinja2, MongoDB, ACL, Twilio, WebSockets, AWS S3, AWS Lambda, FCM
 
         bullets:
           - text: >
-              Developed CRM modules for Contacts, Tasks, communication workflows,
-              and telephony operations using FastAPI and Python.
+              Developed backend modules and REST APIs for an AI-driven CRM using
+              Python and FastAPI, implementing business logic and workflows across
+              Contacts, Tasks, Deals, Documents, communication, and account management.
 
           - text: >
-              Implemented RBAC and ACL authorization to control access to CRM
-              resources based on user permissions.
+              Built the Contacts management experience with inline editing, global
+              search across CRM modules, access to related Tasks, Deals, and Documents,
+              and Google Sheets integration for importing contact records in bulk.
 
           - text: >
-              Integrated Twilio for telephony and communication functionality
-              and developed server-rendered interfaces using Jinja2.
+              Developed a real-time CRM dialer accessible from contact records,
+              integrating Twilio and an internal SIP-based telephony application through
+              WebSockets, with AI-generated call scripts provided for relevant calls.
 
           - text: >
-              Tested APIs and workflows with Postman and resolved bugs across
-              CRM functionality and production workflows.
-
-      - name: GharPe
-        subtitle: Real Estate Management Platform
-        tech: React.js, FastAPI, Python, MongoDB, REST APIs
-
-        bullets:
-          - text: >
-              Developed the React.js-based admin system for managing real estate
-              projects and controlling their visibility and availability on the website.
+              Implemented a CRM-wide soft-delete and Trash workflow with a 30-day
+              retention period, replacing hard-delete behavior and using an AWS Lambda
+              service to permanently remove records after the retention period.
 
           - text: >
-              Built project management workflows allowing administrators to
-              create, update, configure, and manage projects displayed across the platform.
+              Built document management workflows using Amazon S3, including
+              browser-to-S3 client uploads and storage of documents associated with
+              CRM records.
 
           - text: >
-              Developed lead management functionality to track and manage
-              customer inquiries generated through the platform.
+              Developed a task cadence system that allows users to create sequences
+              of tasks as a single workflow and progress through scheduled follow-ups,
+              with Firebase Cloud Messaging (FCM) used for task notifications.
 
           - text: >
-              Built builder management features for maintaining builder
-              information and associating builders with their respective projects.
-
-          - text: >
-              Developed and integrated FastAPI/Python REST APIs supporting
-              administrative workflows, project configuration, and data operations.
+              Built account-level reporting dashboards and developed an MCP integration
+              exposing CRM capabilities as tools, enabling the AI bot to retrieve
+              CRM information and trigger supported operations.
 
 personal_projects:
 
