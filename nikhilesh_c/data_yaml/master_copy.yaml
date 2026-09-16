@@ -125,32 +125,28 @@ experience:
     bullets:
 
       - text: >
-          Contributed to production applications by delivering new features,
-          enhancing existing functionality, and supporting end-to-end application workflows.
+          Contributed to production applications by developing new features,
+          enhancing existing functionality, and supporting application workflows.
 
       - text: >
-          Designed and implemented application modules and business workflows,
-          translating functional requirements into reliable and maintainable features.
+          Designed and implemented application modules and business workflows
+          based on functional and product requirements.
 
       - text: >
-          Developed end-to-end functionality across application layers, coordinating
-          user-facing workflows, backend operations, APIs, and supporting processes.
+          Developed end-to-end application features across frontend, backend,
+          APIs, and supporting workflows.
 
       - text: >
-          Implemented authentication, authorization, and access-control workflows,
-          ensuring appropriate permissions across users, roles, and application resources.
+          Implemented authentication, authorization, and access controls
+          across application resources and user roles.
 
       - text: >
-          Integrated third-party services and external APIs, handling data exchange,
-          request validation, error handling, and integration-specific workflows.
+          Integrated third-party services and APIs to support application
+          workflows and external system interactions.
 
       - text: >
-          Supported application releases and deployments by performing environment
-          validation, troubleshooting deployment issues, and resolving release-related defects.
-
-      - text: >
-          Performed functional testing, debugging, defect resolution, and production
-          support, investigating issues and implementing fixes to maintain application reliability.
+          Supported application deployments, testing, debugging, bug fixes,
+          and production issues throughout the development lifecycle.
 
     key_projects:
 
