@@ -124,24 +124,28 @@ experience:
 
     bullets:
       - text: >
-          Contributed to four production applications, delivering features
-          across backend, frontend, and API workflows.
+          Worked across four production applications, delivering backend,
+          frontend, API integration, and application features across the stack.
 
       - text: >
-          Developed application modules and workflows based on business
-          requirements and product needs.
+          Built backend modules, REST APIs, and business logic using Python,
+          FastAPI, and MongoDB for application-specific workflows.
 
       - text: >
-          Implemented authentication and role-based access controls across
-          application resources.
+          Developed frontend interfaces using React.js, Next.js, Angular,
+          JavaScript, and TypeScript, integrating application workflows with APIs.
 
       - text: >
-          Integrated third-party APIs and supported application deployments
-          across cloud environments.
+          Implemented authentication, RBAC, and ACL-based authorization to
+          enforce access controls across application resources.
 
       - text: >
-          Handled testing, debugging, bug fixes, and production support to
-          maintain application reliability.
+          Integrated third-party services including Twilio and GitHub API and
+          supported application deployments across AWS and Vercel.
+
+      - text: >
+          Maintained GitHub Actions CI/CD workflows and handled testing,
+          debugging, bug fixes, and production support.
 
     key_projects:
 
