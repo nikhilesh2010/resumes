@@ -125,32 +125,27 @@ experience:
     bullets:
 
       - text: >
-          Contributed to production applications by developing new features,
-          enhancing existing functionality, and supporting application workflows.
-
+          Delivered new features and enhancements across production applications,
+          translating product requirements into application modules, business logic,
+          and end-to-end workflows.
+    
       - text: >
-          Designed and implemented application modules and business workflows
-          based on functional and product requirements.
-
+          Developed and integrated end-to-end application functionality across
+          frontend, backend, APIs, and data flows, ensuring features worked
+          consistently across connected application components.
+    
       - text: >
-          Developed end-to-end application features across frontend, backend,
-          APIs, and supporting workflows.
-
+          Implemented authentication, authorization, and access-control workflows,
+          managing permissions across users, roles, and application resources.
+    
       - text: >
-          Implemented authentication, authorization, and access controls
-          across application resources and user roles.
-
+          Integrated third-party services and APIs, handling request and response
+          flows, data validation, error scenarios, and integration-related issues.
+    
       - text: >
-          Integrated third-party services and APIs to support application
-          workflows and external system interactions.
-
-      - text: >
-          Supported application deployments and releases, including environment
-          validation and troubleshooting of deployment issues.
-
-      - text: >
-          Performed testing, debugging, bug fixes, and production support to
-          investigate issues and maintain application reliability.
+          Supported releases and production operations through deployment validation,
+          testing, debugging, root-cause analysis, defect resolution, and troubleshooting
+          of application issues.
 
     key_projects:
 
