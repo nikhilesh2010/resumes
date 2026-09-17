@@ -102,7 +102,7 @@ experience:
           operations for incomplete or failed storage migrations.
 
       - text: >
-          Implemented production observability using Datadog, StatsD, dashboards,
+          Implemented production observability using Datadog, Grafana, dashboards,
           and Sentry for monitoring service health, tracking errors, diagnosing
           processing failures, and supporting production incident resolution.
 
