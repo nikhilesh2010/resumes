@@ -148,76 +148,76 @@ experience:
           API testing, debugging, root-cause analysis, deployment validation,
           and defect resolution.
 
-key_projects:
+    key_projects:
 
-  - name: AI Bull
-    subtitle: AI-Powered Trading & Investment Platform
-    tech: FastAPI, Python, MongoDB, RAG, LLM, React.js, Next.js
+      - name: AI Bull
+        subtitle: AI-Powered Trading & Investment Platform
+        tech: FastAPI, Python, MongoDB, RAG, LLM, React.js, Next.js
 
-    bullets:
+        bullets:
 
-      - text: >
-          Built FastAPI and Python backend APIs and business logic supporting
-          portfolio aggregation, investment analysis, screening, backtesting,
-          and AI-powered portfolio workflows.
+          - text: >
+              Built FastAPI and Python backend APIs and business logic supporting
+              portfolio aggregation, investment analysis, screening, backtesting,
+              and AI-powered portfolio workflows.
 
-      - text: >
-          Developed backend workflows for aggregating holdings from multiple
-          Demat accounts and presenting consolidated portfolio information.
+          - text: >
+              Developed backend workflows for aggregating holdings from multiple
+              Demat accounts and presenting consolidated portfolio information.
 
-      - text: >
-          Built portfolio workflows for tracking positions, stocks, and mutual
-          funds, along with detailed investment-level information and reports.
+          - text: >
+              Built portfolio workflows for tracking positions, stocks, and mutual
+              funds, along with detailed investment-level information and reports.
 
-      - text: >
-          Designed and implemented a backtesting engine for evaluating trading
-          strategies against historical market data and analyzing strategy
-          performance.
+          - text: >
+              Designed and implemented a backtesting engine for evaluating trading
+              strategies against historical market data and analyzing strategy
+              performance.
 
-      - text: >
-          Developed stock and mutual fund screening workflows with configurable
-          filtering capabilities and detailed asset-level information.
+          - text: >
+              Developed stock and mutual fund screening workflows with configurable
+              filtering capabilities and detailed asset-level information.
 
-      - text: >
-          Implemented a Retrieval-Augmented Generation (RAG) based chatbot that
-          combines portfolio and financial information to provide contextual
-          insights and answer portfolio-related queries.
+          - text: >
+              Implemented a Retrieval-Augmented Generation (RAG) based chatbot that
+              combines portfolio and financial information to provide contextual
+              insights and answer portfolio-related queries.
 
-  - name: CRM.io
-    subtitle: AI-Driven CRM System
-    tech: FastAPI, Python, Jinja2, MongoDB, ACL, Twilio, WebSockets,
-          AWS S3, AWS Lambda, FCM
+      - name: CRM.io
+        subtitle: AI-Driven CRM System
+        tech: FastAPI, Python, Jinja2, MongoDB, ACL, Twilio, WebSockets,
+              AWS S3, AWS Lambda, FCM
 
-    bullets:
+        bullets:
 
-      - text: >
-          Developed backend modules and REST APIs using Python and FastAPI,
-          implementing business logic and workflows across Contacts, Tasks,
-          Deals, Documents, communication, and account management.
+          - text: >
+              Developed backend modules and REST APIs using Python and FastAPI,
+              implementing business logic and workflows across Contacts, Tasks,
+              Deals, Documents, communication, and account management.
 
-      - text: >
-          Developed a real-time CRM dialer integrating Twilio and an internal
-          SIP-based telephony application through WebSockets, with AI-generated
-          call scripts provided for relevant calls.
+          - text: >
+              Developed a real-time CRM dialer integrating Twilio and an internal
+              SIP-based telephony application through WebSockets, with AI-generated
+              call scripts provided for relevant calls.
 
-      - text: >
-          Implemented CRM-wide soft-delete and Trash workflows with a
-          30-day retention period, using AWS Lambda for permanent record
-          removal after the retention period.
+          - text: >
+              Implemented CRM-wide soft-delete and Trash workflows with a
+              30-day retention period, using AWS Lambda for permanent record
+              removal after the retention period.
 
-      - text: >
-          Built document management workflows using Amazon S3, including
-          browser-to-S3 client uploads and storage of documents associated
-          with CRM records.
+          - text: >
+              Built document management workflows using Amazon S3, including
+              browser-to-S3 client uploads and storage of documents associated
+              with CRM records.
 
-      - text: >
-          Developed task cadence workflows for scheduled follow-ups, with
-          Firebase Cloud Messaging used for task notifications.
+          - text: >
+              Developed task cadence workflows for scheduled follow-ups, with
+              Firebase Cloud Messaging used for task notifications.
 
-      - text: >
-          Built account-level reporting dashboards and an MCP integration
-          exposing CRM capabilities as tools for AI-driven information
-          retrieval and supported operations.
+          - text: >
+              Built account-level reporting dashboards and an MCP integration
+              exposing CRM capabilities as tools for AI-driven information
+              retrieval and supported operations.
 
 personal_projects:
 
