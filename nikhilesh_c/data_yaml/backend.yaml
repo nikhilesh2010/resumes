@@ -1,0 +1,300 @@
+# Backend-focused version derived from the latest master copy.
+# Optimized for Python Backend / Backend Software Engineer / Python Developer roles.
+name: backend_resume
+pages: 2
+
+personal:
+  name: Nikhilesh Vijay Chirutala
+  title: Backend Software Engineer
+  file_name: Nikhilesh_Vijay_Chirutala_Backend_Software_Engineer
+  phone: "+91-9618873598"
+  email: nikhilesh.chirutala@gmail.com
+  location: Bengaluru, IN
+  links:
+    - label: Linkedin
+      url: https://linkedin.com/in/nikhilesh-chirutala
+    - label: Github
+      url: https://github.com/nikhilesh2010
+    - label: Portfolio
+      url: https://nikhileshc.vercel.app
+
+summary: >
+  Backend Software Engineer with 3+ years of experience designing, developing,
+  and maintaining production applications using Python, FastAPI, REST APIs,
+  MongoDB, PostgreSQL, MySQL, and AWS. Experienced in backend service development,
+  API design, business logic, data processing, cloud storage workflows,
+  third-party integrations, authentication, authorization, and production
+  troubleshooting. Currently developing Python services for a high-volume cloud
+  contact-center platform, working on call-recording processing, recovery,
+  storage, and service integrations. Also experienced in RAG-based applications,
+  LLM integration, CI/CD, observability, and production support.
+
+skills:
+
+  - name: Languages
+    items: [Python, SQL, JavaScript (ES6+), TypeScript]
+
+  - name: Backend & Frameworks
+    items: [FastAPI, Django, Flask, REST APIs, API Development, Backend Automation]
+
+  - name: Databases
+    items: [MongoDB, PostgreSQL, MySQL, SQL, Neon DB]
+
+  - name: Cloud & AWS
+    items: [AWS, Amazon S3, AWS Lambda, Vercel]
+
+  - name: Architecture & Integration
+    items: [Microservices, WebSockets, API Integration, Third-Party Integrations]
+
+  - name: AI & LLM
+    items: [RAG, LLM Integration, Vector Search, Prompt Engineering]
+
+  - name: Security
+    items: [Authentication, Authorization, RBAC, ACL, JWT]
+
+  - name: DevOps & Observability
+    items: [GitHub Actions, CI/CD, Linux, Datadog, Grafana, Sentry]
+
+  - name: Testing & Tools
+    items: [Postman, Jest, Unit Testing, Git, GitHub, Debugging]
+
+  - name: Frontend
+    items: [React.js, Next.js, Angular, Jinja2, Tailwind CSS]
+
+experience:
+
+  - title: Software Engineer
+    company: CA One Tech Cloud Inc.
+    company_url: null
+    start: Apr 2026
+    end: Present
+    location: Bengaluru, India
+    client: Convoso
+    project: Cloud Contact Center Platform
+    tech: Python, FastAPI, AWS, Amazon S3, MySQL, Datadog
+
+    bullets:
+
+      - text: >
+          Develop and maintain production-grade Python services for a high-volume
+          cloud contact-center platform, supporting call-recording ETL, data
+          processing, storage workflows, and production operations.
+
+      - text: >
+          Migrated a legacy Perl-based call-recording workflow to a long-running
+          Python service deployed across 40 production clusters, supporting
+          feature flags, staged rollout, validation, rollback, and monitoring.
+
+      - text: >
+          Built Python integrations with a Call Intelligence microservice,
+          implementing service APIs, eligibility checks, account and campaign
+          controls, daily processing limits, retries, response validation, and
+          result persistence.
+
+      - text: >
+          Developed validation and recovery workflows for call-recording data,
+          handling incomplete processing, failed operations, and inconsistent
+          storage states across production environments.
+
+      - text: >
+          Built AWS S3 audit and recovery workflows for recording storage,
+          including deterministic object handling and idempotent re-upload
+          operations for incomplete or failed storage migrations.
+
+      - text: >
+          Supported production deployment and rollout of Python services across
+          multiple clusters, including feature-flag configuration, validation,
+          monitoring, and troubleshooting during migration activities.
+
+      - text: >
+          Implemented production observability using Datadog, Grafana, dashboards,
+          and Sentry for monitoring service health, tracking errors, diagnosing
+          processing failures, and supporting production incident resolution.
+
+      - text: >
+          Investigated production issues across Python services, APIs, databases,
+          and cloud storage, performing troubleshooting and implementing fixes
+          to maintain reliable recording-processing workflows.
+
+  - title: Software Engineer
+    company: Mantra Technologies
+    company_url: null
+    start: Dec 2023
+    end: Mar 2026
+    location: Hyderabad, India
+
+    bullets:
+
+      - text: >
+          Developed backend services, REST APIs, business logic, and data-driven
+          workflows using Python and FastAPI across multiple production
+          applications.
+
+      - text: >
+          Designed and implemented API-driven application functionality,
+          connecting backend services, databases, external integrations,
+          and application workflows.
+
+      - text: >
+          Implemented authentication, authorization, and RBAC/ACL-based
+          access-control workflows across application resources.
+
+      - text: >
+          Integrated external services and backend components, including
+          communication, storage, notification, and application integrations.
+
+      - text: >
+          Supported production releases and resolved application issues through
+          API testing, debugging, root-cause analysis, deployment validation,
+          and defect resolution.
+
+key_projects:
+
+  - name: AI Bull
+    subtitle: AI-Powered Trading & Investment Platform
+    tech: FastAPI, Python, MongoDB, RAG, LLM, React.js, Next.js
+
+    bullets:
+
+      - text: >
+          Built FastAPI and Python backend APIs and business logic supporting
+          portfolio aggregation, investment analysis, screening, backtesting,
+          and AI-powered portfolio workflows.
+
+      - text: >
+          Developed backend workflows for aggregating holdings from multiple
+          Demat accounts and presenting consolidated portfolio information.
+
+      - text: >
+          Built portfolio workflows for tracking positions, stocks, and mutual
+          funds, along with detailed investment-level information and reports.
+
+      - text: >
+          Designed and implemented a backtesting engine for evaluating trading
+          strategies against historical market data and analyzing strategy
+          performance.
+
+      - text: >
+          Developed stock and mutual fund screening workflows with configurable
+          filtering capabilities and detailed asset-level information.
+
+      - text: >
+          Implemented a Retrieval-Augmented Generation (RAG) based chatbot that
+          combines portfolio and financial information to provide contextual
+          insights and answer portfolio-related queries.
+
+  - name: CRM.io
+    subtitle: AI-Driven CRM System
+    tech: FastAPI, Python, Jinja2, MongoDB, ACL, Twilio, WebSockets,
+          AWS S3, AWS Lambda, FCM
+
+    bullets:
+
+      - text: >
+          Developed backend modules and REST APIs using Python and FastAPI,
+          implementing business logic and workflows across Contacts, Tasks,
+          Deals, Documents, communication, and account management.
+
+      - text: >
+          Developed a real-time CRM dialer integrating Twilio and an internal
+          SIP-based telephony application through WebSockets, with AI-generated
+          call scripts provided for relevant calls.
+
+      - text: >
+          Implemented CRM-wide soft-delete and Trash workflows with a
+          30-day retention period, using AWS Lambda for permanent record
+          removal after the retention period.
+
+      - text: >
+          Built document management workflows using Amazon S3, including
+          browser-to-S3 client uploads and storage of documents associated
+          with CRM records.
+
+      - text: >
+          Developed task cadence workflows for scheduled follow-ups, with
+          Firebase Cloud Messaging used for task notifications.
+
+      - text: >
+          Built account-level reporting dashboards and an MCP integration
+          exposing CRM capabilities as tools for AI-driven information
+          retrieval and supported operations.
+
+personal_projects:
+
+  - name: Enterprise REST API Platform
+    url: null
+    description: Django and Flask Backend Application
+    tech: Python, Django, Flask, PostgreSQL, REST APIs
+
+    details:
+
+      - text: >
+          Built modular REST APIs using Django, Django REST Framework, and Flask
+          for authentication, business logic, and data-driven workflows.
+
+      - text: >
+          Integrated PostgreSQL with CRUD operations, database models,
+          relationships, validation, and API error handling.
+
+      - text: >
+          Implemented JWT authentication and role-based access control,
+          with API testing and validation using Postman.
+
+  - name: AnyScrum
+    url: http://anyscrum.vercel.app
+    description: Project Management Platform
+    tech: Next.js, Neon DB, Clerk, Vercel
+
+    details:
+
+      - text: >
+          Developed a project management platform for projects, tasks,
+          and team workflows.
+
+      - text: >
+          Implemented authentication and user management with Clerk and
+          persistent application data with Neon DB.
+
+  - name: JS Studio
+    url: https://jsstudio.space/
+    description: Online JavaScript Playground
+    tech: Next.js, GitHub API, Vercel
+
+    details:
+
+      - text: >
+          Developed an online JavaScript playground for writing and executing
+          JavaScript through a web interface.
+
+      - text: >
+          Integrated GitHub APIs and deployed the application with Next.js
+          and Vercel.
+
+  - name: Guider
+    url: https://guiderhub.vercel.app/
+    description: Interactive Learning Portal
+    tech: Angular 19, TypeScript, SSR, Vercel
+
+    details:
+
+      - text: >
+          Built an interactive learning platform using Angular 19, TypeScript,
+          and server-side rendering with reusable frontend components.
+
+      - text: >
+          Deployed the application on Vercel with a production-ready
+          frontend architecture.
+
+education:
+  degree: B.Tech — Electrical & Electronics Engineering
+  school: Srinivasa Ramanujan Institute of Technology, Anantapur
+  start: 2019
+  end: 2023
+  gpa: 7.73 / 10
+
+sections:
+  - summary
+  - skills
+  - experience
+  - personal_projects
+  - education
