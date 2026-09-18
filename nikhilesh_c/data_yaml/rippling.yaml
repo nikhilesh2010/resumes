@@ -128,34 +128,27 @@ experience:
     bullets:
 
       - text: >
-          Delivered production features across multiple applications by
-          translating product requirements into backend services, APIs,
-          business logic, data workflows, and end-to-end product functionality.
+          Delivered production features across multiple applications by translating
+          product requirements into backend services, REST APIs, business logic,
+          data workflows, and end-to-end product functionality using Python,
+          FastAPI, and modern JavaScript frameworks.
 
       - text: >
           Developed and integrated application functionality across frontend,
-          backend, APIs, and data layers, contributing to complete product
-          workflows using Python and modern JavaScript frameworks.
+          backend, API, and data layers, working with React.js, Next.js, MongoDB,
+          and relational databases to implement data models, CRUD workflows,
+          relationships, validation, and data-driven features.
 
       - text: >
-          Built backend modules and REST APIs with Python and FastAPI, implementing
-          business logic, validation, authentication, authorization, and
-          application workflows.
+          Built secure application workflows by implementing authentication,
+          authorization, RBAC, ACL, and JWT-based access control, while integrating
+          external services and resolving API and integration-related issues.
 
       - text: >
-          Worked with MongoDB and relational databases to support application
-          data models, CRUD workflows, relationships, validation, and
-          data-driven features.
-
-      - text: >
-          Implemented authentication, authorization, RBAC, and ACL workflows
-          while integrating external services and handling API and
-          integration-related issues.
-
-      - text: >
-          Supported production releases through testing, debugging, root-cause
-          analysis, deployment validation, code reviews, and defect resolution.
-
+          Supported production releases and maintained application reliability
+          through unit testing, debugging, root-cause analysis, deployment
+          validation, code reviews, defect resolution, and continuous improvements
+          to backend and full-stack workflows.
 
     key_projects:
 
