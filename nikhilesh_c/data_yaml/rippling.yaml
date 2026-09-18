@@ -37,8 +37,8 @@ skills:
     items: [Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3]
 
   - name: Backend & Frameworks
-    items: [Python, FastAPI, Django, Flask, Django REST Framework,
-            REST APIs, API Development, Backend Services, Backend Automation]
+    items: [Python, FastAPI, Django, Flask, REST APIs, API Development, 
+            Backend Services, Backend Automation]
 
   - name: Frontend
     items: [React.js, Next.js, Tailwind CSS, Bootstrap, Jinja2]
