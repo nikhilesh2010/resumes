@@ -1,0 +1,283 @@
+# LTIMindtree - API Engineer tailored version
+# Job ID: 869582
+# Optimized for Python, Selenium-Python, API Development,
+# Relational DB, MongoDB, Testing, Git/SCM, Cloud and Data Processing.
+
+name: ltimindtree_api_engineer
+pages: 2
+
+personal:
+  name: Nikhilesh Vijay Chirutala
+  title: Software Engineer | Python Backend & API Engineer
+  file_name: Nikhilesh_Vijay_Chirutala_LTIMindtree_API_Engineer
+  phone: "+91-9618873598"
+  email: nikhilesh.chirutala@gmail.com
+  location: Hyderabad, IN
+  links:
+    - label: Linkedin
+      url: https://linkedin.com/in/nikhilesh-chirutala
+    - label: Github
+      url: https://github.com/nikhilesh2010
+    - label: Portfolio
+      url: https://nikhileshc.vercel.app
+
+summary: >
+  Python Backend and API Engineer with 3 years of experience developing and
+  maintaining production applications, backend services, REST APIs, and
+  data-driven workflows across cloud, CRM, AI, and contact-center platforms.
+  Experienced in Python, FastAPI, REST API development, relational databases,
+  MongoDB, SQL, AWS, Selenium-Python testing, and backend automation. Strong
+  experience working with production data workflows, API integrations,
+  validation, automated testing, troubleshooting, deployment activities,
+  and Git-based development. Experienced in building reliable backend
+  solutions across application, database, and cloud layers.
+
+skills:
+
+  - name: Programming Languages
+    items: [Python, SQL, JavaScript (ES6+), TypeScript, Shell Scripting]
+
+  - name: Backend & API Development
+    items: [Python, FastAPI, Flask, REST APIs, API Development,
+            Backend Services, Backend Automation]
+
+  - name: Databases
+    items: [MySQL, PostgreSQL, MongoDB, SQL, Relational Databases,
+            Data Modeling, CRUD Operations]
+
+  - name: Testing & Automation
+    items: [Selenium-Python, API Testing, Unit Testing, Jest, Postman,
+            Automated Testing, Debugging, Test Automation]
+
+  - name: Cloud & Platforms
+    items: [AWS, Amazon S3, AWS Lambda, Vercel, Linux, CI/CD]
+
+  - name: SCM & Development Tools
+    items: [Git, GitHub, GitHub Actions, Postman, Code Reviews, SonarQube]
+
+  - name: Data & Integrations
+    items: [Data Processing, Data Validation, Data Workflows,
+            API Integration, WebSockets, Twilio, GitHub API]
+
+  - name: Security
+    items: [Authentication, Authorization, RBAC, ACL, JWT]
+
+  - name: AI & Machine Learning
+    items: [RAG, LLM Integration, Vector Search, Prompt Engineering]
+
+
+experience:
+
+  - title: Software Engineer
+    company: CA One Tech Cloud Inc.
+    company_url: null
+    start: Apr 2026
+    end: Present
+    location: Bengaluru, India
+    client: Convoso
+    project: Cloud Contact Center Platform
+    tech: Python, FastAPI, AWS, Amazon S3, MySQL, Datadog, Grafana
+
+    bullets:
+
+      - text: >
+          Develop and maintain production-grade Python backend services and
+          APIs for a high-volume cloud contact-center platform, supporting
+          data processing, call-recording workflows, storage operations,
+          and production services.
+
+      - text: >
+          Built Python service integrations with a Call Intelligence
+          microservice, implementing APIs, eligibility checks, account and
+          campaign controls, processing limits, retries, response validation,
+          and result persistence.
+
+      - text: >
+          Developed data validation, recovery, and processing workflows across
+          Python services, MySQL databases, and AWS S3, handling incomplete
+          processing, failed operations, and inconsistent storage states.
+
+      - text: >
+          Supported production deployments and service reliability through
+          testing, debugging, root-cause analysis, deployment validation,
+          monitoring, and troubleshooting across multiple production clusters.
+
+
+  - title: Software Engineer
+    company: Mantra Technologies
+    company_url: null
+    start: Oct 2023
+    end: Mar 2026
+    location: Hyderabad, India
+
+    bullets:
+
+      - text: >
+          Developed production backend services and REST APIs using Python
+          and FastAPI, implementing business logic, validation, application
+          workflows, and data-driven functionality.
+
+      - text: >
+          Worked with MongoDB and relational databases including PostgreSQL
+          to implement data models, CRUD operations, relationships,
+          validation, and database-backed application workflows.
+
+      - text: >
+          Integrated external services and APIs while implementing
+          authentication, authorization, RBAC, ACL, and JWT-based access
+          control across application workflows.
+
+      - text: >
+          Supported production releases through API testing, automated
+          testing, debugging, root-cause analysis, deployment validation,
+          code reviews, Git-based development, and defect resolution.
+
+
+    key_projects:
+
+      - name: CRM.io
+        subtitle: AI-Driven CRM System
+        tech: FastAPI, Python, Jinja2, MongoDB, ACL, Twilio, WebSockets,
+              AWS S3, AWS Lambda, FCM
+
+        bullets:
+
+          - text: >
+              Developed backend modules and REST APIs using Python and
+              FastAPI for Contacts, Tasks, Deals, Documents, communication,
+              and account-management workflows.
+
+          - text: >
+              Implemented data-driven CRM workflows using MongoDB, including
+              CRUD operations, global search, related records, validation,
+              and account-level application functionality.
+
+          - text: >
+              Developed API integrations with Twilio and internal telephony
+              services using WebSockets to support real-time CRM communication
+              workflows.
+
+          - text: >
+              Implemented soft-delete and retention workflows using AWS
+              Lambda and MongoDB, supporting automated record cleanup after
+              the defined retention period.
+
+          - text: >
+              Built document-management workflows using Amazon S3, including
+              browser-to-S3 uploads and storage of documents associated with
+              CRM records.
+
+          - text: >
+              Built account-level reporting workflows and an MCP integration
+              exposing CRM capabilities for AI-assisted retrieval and
+              supported operations.
+
+
+      - name: AI Bull
+        subtitle: AI-Powered Trading & Investment Platform
+        tech: React.js, Next.js, FastAPI, Python, MongoDB, RAG, LLM
+
+        bullets:
+
+          - text: >
+              Developed Python and FastAPI backend APIs supporting portfolio
+              aggregation, investment tracking, screening, reporting,
+              backtesting, and AI-powered workflows.
+
+          - text: >
+              Designed data-driven workflows for portfolio positions, stocks,
+              mutual funds, investment information, and aggregated account
+              data using MongoDB.
+
+          - text: >
+              Implemented configurable stock and mutual fund screening
+              workflows with filtering capabilities and detailed asset-level
+              information.
+
+          - text: >
+              Designed and implemented a backtesting engine for evaluating
+              trading strategies against historical market data and analyzing
+              strategy performance.
+
+          - text: >
+              Implemented a Retrieval-Augmented Generation (RAG) chatbot
+              combining portfolio and financial information to provide
+              contextual responses to portfolio-related queries.
+
+
+personal_projects:
+
+  - name: Data Processing & API Automation
+    url: null
+    description: Python Data Processing and API Testing Project
+    tech: Python, REST APIs, Selenium-Python, SQL, Shell Scripting
+
+    details:
+
+      - text: >
+          Developed Python workflows for consuming REST APIs, validating
+          responses, processing structured data, and storing application
+          results in relational database tables.
+
+      - text: >
+          Implemented Selenium-Python automation workflows for validating
+          web application functionality and executing repeatable regression
+          test scenarios.
+
+      - text: >
+          Created Shell scripts to automate execution of Python processing
+          and testing workflows in a Linux environment.
+
+      - text: >
+          Implemented data validation and error-handling workflows for
+          identifying failed API responses, invalid records, and processing
+          exceptions.
+
+
+  - name: AnyScrum
+    url: http://anyscrum.vercel.app
+    description: Project Management Platform
+    tech: Next.js, Neon DB, Clerk, Vercel
+
+    details:
+
+      - text: >
+          Developed a project management platform supporting projects,
+          tasks, and team workflows with persistent application data.
+
+      - text: >
+          Implemented authentication and user management with Clerk and
+          database-backed application workflows using Neon DB.
+
+
+  - name: JS Studio
+    url: https://jsstudio.space/
+    description: Online JavaScript Playground
+    tech: Next.js, GitHub API, Vercel
+
+    details:
+
+      - text: >
+          Developed an online JavaScript playground for writing and executing
+          JavaScript through a web interface.
+
+      - text: >
+          Integrated GitHub APIs and deployed the application using Next.js
+          and Vercel.
+
+
+education:
+
+  degree: B.Tech — Electrical & Electronics Engineering
+  school: Srinivasa Ramanujan Institute of Technology, Anantapur
+  start: 2019
+  end: 2023
+  gpa: 7.73 / 10
+
+
+sections:
+  - summary
+  - skills
+  - experience
+  - personal_projects
+  - education
