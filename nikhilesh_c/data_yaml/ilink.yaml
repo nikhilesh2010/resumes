@@ -142,7 +142,7 @@ experience:
     key_projects:
 
       - name: AI Bull
-        subtitle: AI-Powered Trading & Investment Platform | May 2025 - Apr 2026
+        subtitle: AI-Powered Trading & Investment Platform | May 2025 - Mar 2026
         tech: React.js, Next.js, FastAPI, Python, MongoDB, RAG, LLM
 
         bullets:
