@@ -81,27 +81,44 @@ experience:
     bullets:
 
       - text: >
-          Develop and maintain production-grade Python backend services and
-          APIs for a high-volume cloud contact-center platform, supporting
-          data processing, call-recording workflows, storage operations,
-          and production services.
+          Develop and maintain production-grade Python backend services for a
+          high-volume cloud contact center platform, supporting data processing,
+          call-recording workflows, storage operations, and production use cases.
 
       - text: >
-          Built Python service integrations with a Call Intelligence
-          microservice, implementing APIs, eligibility checks, account and
-          campaign controls, processing limits, retries, response validation,
-          and result persistence.
+          Migrated a legacy Perl-based workflow to a long-running Python service
+          deployed across 40 production clusters, supporting staged rollout,
+          feature flags, validation, rollback, and production monitoring.
 
       - text: >
-          Developed data validation, recovery, and processing workflows across
-          Python services, MySQL databases, and AWS S3, handling incomplete
-          processing, failed operations, and inconsistent storage states.
+          Built Python service integrations with a Call Intelligence microservice,
+          implementing APIs, eligibility checks, account and campaign controls,
+          processing limits, retries, response validation, and result persistence.
 
       - text: >
-          Supported production deployments and service reliability through
-          testing, debugging, root-cause analysis, deployment validation,
-          monitoring, and troubleshooting across multiple production clusters.
+          Developed validation and recovery workflows for production data,
+          handling incomplete processing, failed operations, inconsistent storage
+          states, and recovery scenarios across multiple environments.
 
+      - text: >
+          Built AWS S3 audit and recovery workflows for recording storage,
+          implementing deterministic object handling and idempotent re-upload
+          operations for incomplete or failed storage workflows.
+
+      - text: >
+          Supported production deployments across multiple clusters through
+          configuration, staged validation, monitoring, troubleshooting, and
+          rollback activities.
+
+      - text: >
+          Implemented production observability using Datadog, Grafana dashboards,
+          and Sentry to monitor service health, diagnose failures, and support
+          production incident resolution.
+
+      - text: >
+          Investigated and resolved production issues across Python services,
+          APIs, databases, and cloud storage while improving reliability of
+          recording-processing workflows.
 
   - title: Software Engineer
     company: Mantra Technologies
