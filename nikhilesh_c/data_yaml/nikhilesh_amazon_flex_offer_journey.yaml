@@ -1,6 +1,6 @@
 # master version: detailed two-page resume.
 # Balanced for ATS readability, technical depth, and concise impact.
-name: master_copy
+name: amazon
 pages: 2
 
 personal:
@@ -34,10 +34,10 @@ skills:
     items: [Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3]
 
   - name: Backend & Frameworks
-    items: [Python Services, FastAPI, Django, Flask, REST APIs, API Development, Backend Automation, Microservices]
+    items: [Python Services, FastAPI, Flask, REST APIs, API Development, Backend Automation, Microservices]
 
   - name: Frontend
-    items: [React.js, Next.js, Angular, Tailwind CSS, Bootstrap, Jinja2]
+    items: [React.js, Next.js, Tailwind CSS, Bootstrap, Jinja2]
 
   - name: AI & LLM
     items: [RAG, LLM Integration, Vector Search, Prompt Engineering]
@@ -243,37 +243,6 @@ personal_projects:
       - text: >
           Implemented authentication and user management with Clerk and
           persistent application data with Neon DB.
-
-  - name: Guider
-    url: https://guiderhub.vercel.app/
-    description: Interactive Learning Portal
-    tech: Angular 19, TypeScript, SSR, Vercel
-
-    details:
-      - text: >
-          Built an interactive learning platform using Angular 19, TypeScript,
-          and server-side rendering with reusable frontend components.
-
-      - text: >
-          Deployed the application on Vercel with a production-ready frontend architecture.
-
-  - name: Enterprise REST API Platform
-    url: null
-    description: Django and Flask Backend Application
-    tech: Python, Django, Flask, PostgreSQL, REST APIs
-
-    details:
-      - text: >
-          Built modular REST APIs using Django, Django REST Framework, and Flask
-          for authentication, business logic, and data-driven workflows.
-
-      - text: >
-          Integrated PostgreSQL with CRUD operations, database models,
-          relationships, validation, and API error handling.
-
-      - text: >
-          Implemented JWT authentication and role-based access control,
-          with API testing and validation using Postman.
 
 education:
   degree: B.Tech — Electrical & Electronics Engineering
