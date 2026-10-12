@@ -37,8 +37,8 @@ skills:
     items: [Python, FastAPI, REST APIs, API Development, Django, Flask, Backend Automation]
 
   - name: Frontend
-    items: [React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Angular,
-            Tailwind CSS, Bootstrap, Jinja2, Microservices]
+    items: [React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS,
+            Bootstrap, Jinja2, Microservices]
 
   - name: AI & LLM
     items: [RAG, LLM Integration, Vector Search, Prompt Engineering]
@@ -244,19 +244,6 @@ personal_projects:
       - text: >
           Implemented authentication and user management with Clerk and
           persistent application data with Neon DB.
-
-  - name: Guider
-    url: https://guiderhub.vercel.app/
-    description: Interactive Learning Portal
-    tech: Angular 19, TypeScript, SSR, Vercel
-
-    details:
-      - text: >
-          Built an interactive learning platform using Angular 19, TypeScript,
-          and server-side rendering with reusable frontend components.
-
-      - text: >
-          Deployed the application on Vercel with a production-ready frontend architecture.
 
   - name: Enterprise REST API Platform
     url: null
