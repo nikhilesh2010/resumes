@@ -1,0 +1,267 @@
+# Resume YAML
+name: master_copy
+pages: 2
+
+personal:
+  name: Nikhilesh Vijay Chirutala
+  title: Generative AI Developer
+  file_name: Nikhilesh_Vijay_Chirutala_GenAI_Developer
+  phone: "+91-9618873598"
+  email: nikhilesh.chirutala@gmail.com
+  location: Bengaluru, IN
+  links:
+    - label: Linkedin
+      url: https://linkedin.com/in/nikhilesh-chirutala
+    - label: Github
+      url: https://github.com/nikhilesh2010
+    - label: Portfolio
+      url: https://nikhileshc.vercel.app
+
+summary: >
+  Generative AI Developer experienced in building AI-enabled workflows with Python, FastAPI,
+  LLM integration, Retrieval-Augmented Generation (RAG), prompt design, and tool calling.
+  Skilled in connecting AI capabilities to application data, APIs, and fintech/CRM workflows,
+  with a strong foundation in backend development, authentication, and production support.
+
+skills:
+
+  - name: Languages
+    items: [Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3]
+
+  - name: Backend & Frameworks
+    items: [FastAPI, Flask, REST APIs, API Development, Backend Automation]
+
+  - name: Frontend
+    items: [React.js, Next.js, Tailwind CSS, Bootstrap, Jinja2,
+            Microservices]
+
+  - name: AI & LLM
+    items: [Generative AI Applications, Retrieval-Augmented Generation (RAG), LLM Integration, MCP Integration, Prompt Engineering]
+
+  - name: Databases
+    items: [MongoDB, PostgreSQL, Neon DB, SQL]
+
+  - name: Cloud & DevOps
+    items: [AWS, Amazon S3, Vercel, GitHub Actions, CI/CD, Linux]
+
+  - name: APIs & Integrations
+    items: [Twilio, GitHub API, REST APIs, Postman, API Integration]
+
+  - name: Security & Authentication
+    items: [Authentication, Authorization, RBAC, ACL, JWT]
+
+  - name: Testing & Tools
+    items: [Postman, Jest, Unit Testing, Git, GitHub, Debugging]
+
+experience:
+  - title: Software Engineer
+    company: CA One Tech Cloud Inc.
+    company_url: null
+    start: Apr 2026
+    end: Present
+    location: Bengaluru, India
+    client: Convoso
+    project: Cloud Contact Center Platform
+    tech: Python, FastAPI, AWS, Amazon S3, MySQL, LLM APIs, RAG, Datadog
+
+
+    bullets:
+      - text: >
+          Designed a GenAI-assisted call intelligence workflow to summarize transcripts
+          and surface key topics for contact-center users through existing Python APIs.
+
+      - text: >
+          Prototyped retrieval over approved call and account context to generate grounded
+          responses to agent questions and reduce manual searches.
+
+      - text: >
+          Implemented prompt templates and structured-output validation for call summaries,
+          intent highlights, and follow-up suggestions, with checks for malformed responses.
+
+      - text: >
+          Integrated model inference into asynchronous Python service
+          workflows, including request validation, timeout handling, retry policies,
+          and persistence of generated results for downstream application use.
+
+      - text: >
+          Added dashboards and error reporting to track AI-service failures, latency, and
+          processing outcomes for debugging and operational review.
+
+      - text: >
+          Designed human-review and fallback paths for uncertain or
+          unavailable model responses, keeping generated content separate from
+          source records and avoiding unsupported automatic actions.
+
+      - text: >
+          Evaluated representative prompts and sample inputs to check
+          summary relevance, consistency with supplied context, and handling of empty
+          or noisy transcripts.
+
+      - text: >
+          Worked across API, storage, and production-support layers to
+          troubleshoot failures in the illustrative AI processing pipeline and
+          maintain reliable integration with contact-center workflows.
+  - title: Software Engineer
+    company: Mantra Technologies
+    company_url: null
+    start: Oct 2023
+    end: Mar 2026
+    location: Hyderabad, India
+
+    tech: Python, FastAPI, MongoDB, LLM APIs, RAG, MCP, React.js, REST APIs
+
+    bullets:
+
+      - text: >
+          Built AI-assisted workflows connecting language-model responses with product data
+          and business operations through Python services and REST APIs.
+
+      - text: >
+          Developed a RAG question-answering prototype over application records to generate
+          context-aware responses from retrieved information.
+
+      - text: >
+          Created tool-calling interfaces for selected application
+          operations, allowing an AI assistant to request approved reads or actions
+          through explicit schemas and backend authorization checks.
+
+      - text: >
+          Designed prompt templates and response parsing for structured
+          outputs, with validation and fallback behavior for missing fields,
+          malformed results, and unsupported requests.
+
+      - text: >
+          Integrated AI features with frontend flows and backend APIs,
+          including loading and error states, input validation, and persistence of
+          relevant application results.
+
+      - text: >
+          Tested AI workflows against representative user questions
+          and edge cases, reviewing relevance, groundedness, tool selection, and
+          whether responses followed the requested output format.
+
+      - text: >
+          Implemented authentication and access-control checks around
+          AI-connected application operations so model-generated requests could not
+          bypass existing permissions.
+
+      - text: >
+          Investigated integration issues across model APIs, backend
+          services, and application data, documenting limitations and improving
+          reliability through defensive error handling.
+
+    key_projects:
+
+      - name: AI Bull
+        subtitle: GenAI-Enabled Trading & Investment Platform
+        tech: React.js, Next.js, FastAPI, Python, MongoDB, RAG, LLM
+
+        bullets:
+          - text: >
+              Developed an AI-powered trading and investment platform with portfolio
+              aggregation, enabling users to consolidate holdings from multiple
+              Demat accounts such as Upstox, Zerodha, and Groww into a unified view.
+
+          - text: >
+              Built portfolio workflows for tracking positions, stocks, and mutual
+              funds, along with detailed reports and investment-level information
+              across aggregated accounts.
+
+          - text: >
+              Developed stock and mutual fund screeners with configurable filtering
+              capabilities and detailed asset pages for analyzing individual
+              investments and their underlying information.
+
+          - text: >
+              Designed and implemented a backtesting engine for evaluating trading
+              strategies against historical market data and analyzing strategy
+              performance.
+
+          - text: >
+              Implemented a Retrieval-Augmented Generation (RAG)-based chatbot that
+              combines portfolio and financial information as context to answer
+              portfolio-related questions and provide contextual investment insights.
+
+          - text: >
+              Built Python and FastAPI APIs and business logic connecting portfolio
+              aggregation, investment analysis, screening, and backtesting workflows
+              with the platform's AI-enabled user experiences.
+
+      - name: CRM.io
+        subtitle: CRM Platform with AI-Assisted Workflows
+        tech: FastAPI, Python, Jinja2, MongoDB, ACL, Twilio, WebSockets, AWS S3, AWS Lambda, FCM, MCP
+
+        bullets:
+          - text: >
+              Developed Python/FastAPI backend modules and REST APIs for CRM workflows across
+              Contacts, Tasks, Deals, Documents, communication, and account management.
+
+          - text: >
+              Built Contacts management with inline editing, global CRM search, related-record
+              access, and Google Sheets integration for bulk contact imports.
+
+          - text: >
+              Developed a real-time CRM dialer integrated with Twilio and an internal
+              SIP-based telephony application through WebSockets, with AI-generated
+              call scripts available to support relevant customer conversations.
+
+          - text: >
+              Implemented a CRM-wide soft-delete and Trash workflow with a 30-day
+              retention period, replacing hard-delete behavior and using an AWS Lambda
+              service to permanently remove records after the retention period.
+
+          - text: >
+              Built document management workflows using Amazon S3, including
+              browser-to-S3 client uploads and storage of documents associated with
+              CRM records.
+
+          - text: >
+              Developed a task cadence system that allows users to create sequences
+              of tasks as a single workflow and progress through scheduled follow-ups,
+              with Firebase Cloud Messaging (FCM) used for task notifications.
+
+          - text: >
+              Built account-level reporting dashboards and an MCP integration exposing CRM
+              capabilities as tools for an AI bot to retrieve information and invoke operations.
+
+personal_projects:
+
+  - name: JS Studio
+    url: https://jsstudio.space/
+    description: Online JavaScript Playground
+    tech: Next.js, GitHub API, Vercel
+
+    details:
+      - text: >
+          Developed an online JavaScript playground for writing and executing
+          JavaScript through a web interface.
+
+      - text: >
+          Integrated GitHub APIs and deployed the application with Next.js and Vercel.
+
+  - name: AnyScrum
+    url: http://anyscrum.vercel.app
+    description: Project Management Platform
+    tech: Next.js, Neon DB, Clerk, Vercel
+
+    details:
+      - text: >
+          Developed a project management platform for projects, tasks, and team workflows.
+
+      - text: >
+          Implemented authentication and user management with Clerk and
+          persistent application data with Neon DB.
+
+education:
+  degree: B.Tech — Electrical & Electronics Engineering
+  school: Srinivasa Ramanujan Institute of Technology, Anantapur
+  start: 2019
+  end: 2023
+  gpa: 7.73 / 10
+
+sections:
+  - summary
+  - skills
+  - experience
+  - personal_projects
+  - education
