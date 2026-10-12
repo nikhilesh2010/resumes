@@ -133,11 +133,6 @@ experience:
           relevant application results.
 
       - text: >
-          Tested AI workflows against representative user questions
-          and edge cases, reviewing relevance, groundedness, tool selection, and
-          whether responses followed the requested output format.
-
-      - text: >
           Implemented authentication and access-control checks around
           AI-connected application operations so model-generated requests could not
           bypass existing permissions.
