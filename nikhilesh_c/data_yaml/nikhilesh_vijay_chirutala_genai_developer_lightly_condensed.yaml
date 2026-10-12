@@ -137,11 +137,6 @@ experience:
           AI-connected application operations so model-generated requests could not
           bypass existing permissions.
 
-      - text: >
-          Investigated integration issues across model APIs, backend
-          services, and application data, documenting limitations and improving
-          reliability through defensive error handling.
-
     key_projects:
 
       - name: AI Bull
