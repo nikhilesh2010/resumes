@@ -59,7 +59,7 @@ skills:
     items: [Postman, Jest, Unit Testing, Git, GitHub, Debugging]
 
   - name: Frontend
-    items: [React.js, Next.js, Angular, Jinja2, Tailwind CSS]
+    items: [React.js, Next.js, Jinja2, Tailwind CSS]
 
 experience:
 
@@ -269,21 +269,6 @@ personal_projects:
       - text: >
           Integrated GitHub APIs and deployed the application with Next.js
           and Vercel.
-
-  - name: Guider
-    url: https://guiderhub.vercel.app/
-    description: Interactive Learning Portal
-    tech: Angular 19, TypeScript, SSR, Vercel
-
-    details:
-
-      - text: >
-          Built an interactive learning platform using Angular 19, TypeScript,
-          and server-side rendering with reusable frontend components.
-
-      - text: >
-          Deployed the application on Vercel with a production-ready
-          frontend architecture.
 
 education:
   degree: B.Tech — Electrical & Electronics Engineering
