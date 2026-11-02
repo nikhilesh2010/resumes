@@ -19,7 +19,7 @@ personal:
       url: https://nikhileshc.vercel.app
 
 summary: >
-  Backend Software Engineer with 2.8 years of experience designing, developing,
+  Backend Software Engineer with 3 years of experience designing, developing,
   and maintaining production applications using Python, FastAPI, REST APIs,
   MongoDB, PostgreSQL, MySQL, and AWS. Experienced in backend service development,
   API design, business logic, data processing, cloud storage workflows,
@@ -59,7 +59,7 @@ skills:
     items: [Postman, Jest, Unit Testing, Git, GitHub, Debugging]
 
   - name: Frontend
-    items: [React.js, Next.js, Angular, Jinja2, Tailwind CSS]
+    items: [React.js, Next.js, Jinja2, Tailwind CSS]
 
 experience:
 
@@ -67,7 +67,7 @@ experience:
     company: CA One Tech Cloud Inc.
     company_url: null
     start: Apr 2026
-    end: Present
+    end: Sep 2026
     location: Bengaluru, India
     client: Convoso
     project: Cloud Contact Center Platform
@@ -119,7 +119,7 @@ experience:
   - title: Software Engineer
     company: Mantra Technologies
     company_url: null
-    start: Feb 2024
+    start: Oct 2023
     end: Mar 2026
     location: Hyderabad, India
 
@@ -269,21 +269,6 @@ personal_projects:
       - text: >
           Integrated GitHub APIs and deployed the application with Next.js
           and Vercel.
-
-  - name: Guider
-    url: https://guiderhub.vercel.app/
-    description: Interactive Learning Portal
-    tech: Angular 19, TypeScript, SSR, Vercel
-
-    details:
-
-      - text: >
-          Built an interactive learning platform using Angular 19, TypeScript,
-          and server-side rendering with reusable frontend components.
-
-      - text: >
-          Deployed the application on Vercel with a production-ready
-          frontend architecture.
 
 education:
   degree: B.Tech — Electrical & Electronics Engineering
