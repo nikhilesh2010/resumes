@@ -1,0 +1,95 @@
+# master version: detailed two-page resume.
+# Balanced for ATS readability, technical depth, and concise impact.
+name: master_copy
+pages: 2
+
+personal:
+  name: Nikhilesh Vijay Chirutala
+  title: BI Developer | Software Engineer
+  file_name: Nikhilesh_Vijay_Chirutala_BI_Developer
+  phone: "+91-9618873598"
+  email: nikhilesh.chirutala@gmail.com
+  location: Bengaluru, IN
+  links:
+    - label: Linkedin
+      url: https://linkedin.com/in/nikhilesh-chirutala
+    - label: Github
+      url: https://github.com/nikhilesh2010
+    - label: Portfolio
+      url: https://nikhileshc.vercel.app
+
+summary: >
+  Software Engineer with 3 years of experience building and supporting production
+  applications and data workflows across cloud contact-center, fintech, and CRM
+  platforms. Experienced in Python, SQL, MySQL, ETL-oriented processing, data
+  validation, storage workflows, and production monitoring. Supported high-volume
+  call-recording data pipelines, including migration, recovery, and integrity checks
+  across production clusters, and built account-level reporting dashboards for a CRM
+  platform. Also experienced in integrating AI capabilities and MCP-based tools into
+  application workflows, with a focus on reliable processing, troubleshooting, and
+  translating business requirements into working technical solutions.
+
+skills:
+
+  - name: Languages
+    items: [SQL, Python, JavaScript (ES6+), TypeScript, HTML5, CSS3]
+
+  - name: Data & ETL
+    items: [ETL, Data Processing, Data Validation, Data Integrity, Pipeline Monitoring, MySQL]
+
+  - name: Databases
+    items: [MySQL, MongoDB, PostgreSQL, Neon DB]
+
+  - name: Reporting & Observability
+    items: [Reporting Dashboards, Grafana, Datadog, Sentry]
+
+  - name: Backend & Frameworks
+    items: [FastAPI, Flask, REST APIs, API Development, Backend Automation]
+
+  - name: AI & LLM
+    items: [RAG, LLM Integration, MCP Tool Integration, Vector Search, Prompt Engineering]
+
+  - name: Cloud & DevOps
+    items: [AWS, Amazon S3, Vercel, GitHub Actions, CI/CD, Linux]
+
+  - name: Frontend
+    items: [React.js, Next.js, Tailwind CSS, Bootstrap, Jinja2, Microservices]
+
+  - name: APIs, Testing & Tools
+    items: [Twilio, GitHub API, Postman, API Integration, Jest, Unit Testing, Git, GitHub, Debugging]
+
+  - name: Security & Authentication
+    items: [Authentication, Authorization, RBAC, ACL, JWT]
+
+experience:
+  - title: Software Engineer
+    company: CA One Tech Cloud Inc.
+    company_url: null
+    start: Apr 2026
+    end: Sep 2026
+    location: Bengaluru, India
+    client: Convoso
+    project: Cloud Contact Center Platform
+    tech: Python, FastAPI, AWS, Amazon S3, MySQL, Datadog
+
+    bullets:
+      - text: >
+          Develop and maintain production-grade Python services for a high-volume
+          cloud contact center platform, supporting call-recording ETL, data
+          processing, storage workflows, and production operations.
+
+      - text: >
+          Migrated a legacy Perl-based call-recording workflow to a long-running
+          Python service deployed across 40 production clusters, supporting
+          feature flags, staged rollout, validation, rollback, and monitoring.
+
+      - text: >
+          Built Python integrations with a Call Intelligence microservice,
+          implementing service APIs, eligibility checks, account and campaign
+          controls, daily processing limits, retries, response validation, and
+          result persistence.
+
+      - text: >
+          Developed validation and recovery workflows for call-recording data,
+          handling incomplete processing, failed operations, and inconsistent
+          storage states across production environments.
