@@ -5,8 +5,8 @@ pages: 2
 
 personal:
   name: Nikhilesh Vijay Chirutala
-  title: Full-Stack Software Engineer
-  file_name: Nikhilesh_Vijay_Chirutala_Software_Engineer
+  title: BI Developer | Software Engineer
+  file_name: Nikhilesh_Vijay_Chirutala_BI_Developer
   phone: "+91-9618873598"
   email: nikhilesh.chirutala@gmail.com
   location: Bengaluru, IN
@@ -19,43 +19,47 @@ personal:
       url: https://nikhileshc.vercel.app
 
 summary: >
-  Full-Stack Software Engineer with 3 years of experience designing and maintaining
-  production applications across AI, fintech, CRM, and cloud contact-center platforms.
-  I work end-to-end — designing REST APIs, modeling data in MongoDB and PostgreSQL,
-  building React.js/Next.js frontends, and implementing authentication and RBAC/ACL
-  authorization. I've built and integrated a RAG-based chatbot into a live trading platform
-  for contextual, portfolio-aware financial insights. Comfortable across Python, FastAPI,
-  Flask, JavaScript/TypeScript, and AWS, with a strong focus on production reliability
-  and observability using Datadog and Sentry.
+  Software Engineer with 3 years of experience building and supporting production
+  applications and data workflows across cloud contact-center, fintech, and CRM
+  platforms. Experienced in Python, SQL, MySQL, ETL-oriented processing, data
+  validation, storage workflows, and production monitoring. Supported high-volume
+  call-recording data pipelines, including migration, recovery, and integrity checks
+  across production clusters, and built account-level reporting dashboards for a CRM
+  platform. Also experienced in integrating AI capabilities and MCP-based tools into
+  application workflows, with a focus on reliable processing, troubleshooting, and
+  translating business requirements into working technical solutions.
 
 skills:
 
   - name: Languages
-    items: [Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3]
+    items: [SQL, Python, JavaScript (ES6+), TypeScript, HTML5, CSS3]
+
+  - name: Data & ETL
+    items: [ETL, Data Processing, Data Validation, Data Integrity, Pipeline Monitoring, MySQL]
+
+  - name: Databases
+    items: [MySQL, MongoDB, PostgreSQL, Neon DB]
+
+  - name: Reporting & Observability
+    items: [Reporting Dashboards, Grafana, Datadog, Sentry]
 
   - name: Backend & Frameworks
     items: [FastAPI, Flask, REST APIs, API Development, Backend Automation]
 
-  - name: Frontend
-    items: [React.js, Next.js, Tailwind CSS, Bootstrap, Jinja2, Microservices]
-
   - name: AI & LLM
-    items: [RAG, LLM Integration, Vector Search, Prompt Engineering]
-
-  - name: Databases
-    items: [MongoDB, PostgreSQL, Neon DB, SQL]
+    items: [RAG, LLM Integration, MCP Tool Integration, Vector Search, Prompt Engineering]
 
   - name: Cloud & DevOps
     items: [AWS, Amazon S3, Vercel, GitHub Actions, CI/CD, Linux]
 
-  - name: APIs & Integrations
-    items: [Twilio, GitHub API, REST APIs, Postman, API Integration]
+  - name: Frontend
+    items: [React.js, Next.js, Tailwind CSS, Bootstrap, Jinja2, Microservices]
+
+  - name: APIs, Testing & Tools
+    items: [Twilio, GitHub API, Postman, API Integration, Jest, Unit Testing, Git, GitHub, Debugging]
 
   - name: Security & Authentication
     items: [Authentication, Authorization, RBAC, ACL, JWT]
-
-  - name: Testing & Tools
-    items: [Postman, Jest, Unit Testing, Git, GitHub, Debugging]
 
 experience:
   - title: Software Engineer
