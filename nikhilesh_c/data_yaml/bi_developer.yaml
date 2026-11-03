@@ -34,8 +34,8 @@ skills:
   - name: Languages
     items: [SQL, Python, JavaScript (ES6+), TypeScript, HTML5, CSS3]
 
-  - name: Data & ETL
-    items: [ETL, Data Processing, Data Validation, Data Integrity, Pipeline Monitoring, MySQL]
+  - name: BI & Data Engineering
+    items: [Snowflake, Apache Airflow, Tableau, ETL, Data Processing, Data Validation, Data Integrity, Pipeline Monitoring]
 
   - name: Databases
     items: [MySQL, MongoDB, PostgreSQL, Neon DB]
@@ -247,6 +247,25 @@ personal_projects:
       - text: >
           Implemented authentication and user management with Clerk and
           persistent application data with Neon DB.
+  
+  - name: Gaming Analytics Data Warehouse
+    url: null
+    description: End-to-End BI & Data Engineering Project
+    tech: Python, SQL, Snowflake, Apache Airflow, Tableau
+
+    details:
+      - text: >
+          Developed an end-to-end analytics pipeline to ingest and transform
+          gaming event, player activity, and transaction datasets using Python
+          and Apache Airflow.
+
+      - text: >
+          Designed Snowflake data warehouse models with staging and analytical
+          layers, implementing SQL transformations and data quality checks.
+
+      - text: >
+          Developed Tableau dashboards to analyze player engagement, retention,
+          revenue trends, and gaming performance metrics.
 
 education:
   degree: B.Tech — Electrical & Electronics Engineering
